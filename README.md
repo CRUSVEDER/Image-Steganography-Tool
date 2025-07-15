@@ -30,7 +30,7 @@ This is a Python-based steganography tool that allows you to hide secret message
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/steganography-tool.git
+git clone https://github.com/CRUSVEDER/Image-Steganography-Tool.git
 cd steganography-tool
 ````
 
