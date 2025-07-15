@@ -34,8 +34,6 @@ git clone https://github.com/CRUSVEDER/Image-Steganography-Tool.git
 cd steganography-tool
 ````
 
-> **Note:** Replace `your-username/steganography-tool.git` with the actual repository URL if you host it.
-
 ### Install dependencies:
 
 This tool requires the `Pillow` (PIL Fork) and `tqdm` libraries. You can install them using pip:
